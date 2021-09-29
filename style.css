@@ -1,0 +1,30 @@
+img{
+    width:100%;
+    height: 200px;
+    border-radius: 5px;
+}
+.col-10{
+    background-color: rgba(180, 99, 99, 0.87);
+    border-radius: 5px;
+    color: white;
+    margin: 20px;
+    font-size: 5px;
+    padding: 3px;
+}
+h4{
+    color: rgba(255, 255, 255, 0.849);
+}
+h5{
+    color: rgba(0, 0, 0, 0.815);
+}
+h6{
+    font-size: 12px;
+}
+p{
+    font-size:25px;
+}
+#search{
+    display: inline;
+}
+
+
