@@ -1,30 +1,35 @@
 img{
-    width:100%;
-    height: 200px;
-    border-radius: 5px;
+  width:100%;
+  height: 200px;
+  border-radius: 8px;
+}
+.header{
+  font-family: 'Yaldevi', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
 }
 .col-10{
-    background-color: rgba(180, 99, 99, 0.87);
-    border-radius: 5px;
-    color: white;
-    margin: 20px;
-    font-size: 5px;
-    padding: 3px;
+  background-color: rgba(253, 191, 175, 0.74);
+  border-radius: 5px;
+  color: white;
+  margin: 20px;
+  font-size: 5px;
+  padding: 3px;
 }
 h4{
-    color: rgba(255, 255, 255, 0.849);
+  color: rgba(255, 255, 255, 0.849);
 }
 h5{
-    color: rgba(0, 0, 0, 0.815);
+  color: rgba(0, 0, 0, 0.815);
 }
 h6{
-    font-size: 12px;
+  font-size: 12px;
 }
 p{
-    font-size:25px;
+  font-size:0px;
 }
 #search{
-    display: inline;
+  display: inline;
 }
 
 
