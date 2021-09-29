@@ -1,7 +1,7 @@
 let searchby = "BLUSH";
 async function fetchData()
 {
-    let d =await fetch('http://makeup-api.herokuapp.com/api/v1/products.json');
+    let d =await fetch('https://makeup-api.herokuapp.com/api/v1/products.json');
     let data=await d.json();
     return data;
 }
